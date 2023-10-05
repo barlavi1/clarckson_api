@@ -148,8 +148,8 @@ NormalizedColumns = list(NormalizedColumns.values())
 #age_sex = titanic[["Age", "Sex"]]
 
 # set your use name and password
-username = "imri@filtersafe.net"
-password =  "Clarksons1!!" 
+username = "username"
+password =  "password" 
 #set url
 url = f"https://www.clarksons.net/api/vessels"
 #get data
